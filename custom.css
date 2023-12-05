@@ -1,0 +1,65 @@
+body {
+  background-color: white;
+  font-family: "Jost", sans-serif;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 6vw;
+}
+
+header h4 {
+  font-style: italic;
+  margin-bottom: 0px;
+}
+
+p {
+  margin: 0px;
+}
+
+ol {
+  list-style-position: inside;
+  max-height: 200px;
+}
+
+#ring-count {
+  max-width: 100px;
+}
+
+.boldme {
+  font-weight: 600;
+}
+
+#moves {
+  border: 1px solid black;
+  font-size: 0em;
+}
+
+#moves-title {
+  text-align: center;
+}
+
+#moves-list {
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
+
+#ring-setup {
+  max-height: 25vw;
+}
+
+footer {
+  margin-top: 3em;
+  font-size: 0.75em;
+  text-align: center;
+}
